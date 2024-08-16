@@ -1,4 +1,14 @@
-.idea
-out
-.DS_Store
+# IDE specific
+.idea/
 *.iml
+.classpath
+.project
+.settings/
+.vscode/
+# OS specific
+.DS_Store
+Thumbs.db
+# Gradle specific
+.gradle/
+build/
+out/
