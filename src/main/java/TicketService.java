@@ -2,7 +2,7 @@ import methods.Methods;
 import methods.Shareable;
 import ticket.Ticket;
 import users.*;
-import java.util.ArrayList;
+
 import static methods.Shareable.*;
 import static methods.Shareable.sharingPlatform.*;
 
